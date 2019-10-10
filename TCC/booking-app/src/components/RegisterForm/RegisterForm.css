@@ -1,0 +1,39 @@
+.Register{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    display: flex;
+    background:  url(../../hotel.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Register--header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.Register--link{
+    color:#007bff;
+    cursor: pointer;
+}
+
+.Register--linkCadastro{
+    color:#007bff;
+    cursor: pointer;
+    margin-right: -10px;
+}
+
+.Register--container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    background: #FFFFFF;
+    padding: 60px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}

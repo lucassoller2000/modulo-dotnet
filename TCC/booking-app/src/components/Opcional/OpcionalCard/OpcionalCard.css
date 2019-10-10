@@ -1,0 +1,14 @@
+.OpcionalCard{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.Opcional--button Button{
+    margin-right: 10px;
+}
+
+.Opcional{
+    border-bottom: 1px solid black;
+}

@@ -1,0 +1,14 @@
+.MinhaReservaCard{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+}
+
+.MinhaReserva--button Button{
+    margin-right: 10px;
+}
+
+.MinhaReserva{
+    border-bottom: 1px solid black;
+}

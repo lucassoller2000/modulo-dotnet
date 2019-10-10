@@ -1,0 +1,11 @@
+Adicionar Migration: dotnet ef migrations --startup-project ..\PetStore.Api\PetStore.Api.csproj add InitialMigration
+
+Adicionar Banco: dotnet ef database --startup-project
+..\PetStore.Api\PetStore.Api.csproj 
+update InitialMigration
+
+AsNoTracking( ) é usando quando quer buscar no banco, mas não quer alterar
+
+Se passar por parametro não usar AsNoTracking
+
+Para usar join usa-se Include( )

@@ -1,0 +1,25 @@
+.navBar{
+    width: 280px;
+    height: 100vh;
+    position: fixed;
+    background: rgb(75, 6, 10);
+}
+
+.Home--link{
+    color:#000000;
+    cursor: pointer;
+}
+
+.Home{
+    display: flex;
+}
+
+.Home--content{
+    height: 100vh;
+    background:url( '../../hotel.jpg') no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    flex: 1;
+}

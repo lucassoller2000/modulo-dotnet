@@ -1,0 +1,15 @@
+.SuiteCard{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+    align-items: flex-start;
+}
+
+.Suite--button Button{
+    margin-right: 10px;
+}
+
+.Suites{
+    border-bottom: 1px solid black;
+}

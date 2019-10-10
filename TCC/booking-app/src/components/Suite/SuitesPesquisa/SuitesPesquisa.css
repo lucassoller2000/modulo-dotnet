@@ -1,0 +1,36 @@
+.SuitePesquisa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-left: 200px;
+}
+
+.SuitePesquisa--header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.SuitePesquisa--link{
+    color:#000000;
+    cursor: pointer;
+}
+
+.SuitePesquisa--container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    background: #FFFFFF;
+    padding: 60px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.SuitePesquisa--content{
+    margin-top: 30px;
+    height: 100%;
+}

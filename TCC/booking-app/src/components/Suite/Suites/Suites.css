@@ -1,0 +1,37 @@
+.Suite{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    padding: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin-left: 200px;
+}
+
+.Suite--header{
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.Suite--link{
+    color:#000000;
+    cursor: pointer;
+}
+
+.Suite--container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #ffffff;
+    background: #FFFFFF;
+    padding: 60px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.Suites--content{
+    margin-top: 30px;
+    height: 100%;
+}

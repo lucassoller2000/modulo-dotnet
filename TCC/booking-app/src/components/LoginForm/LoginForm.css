@@ -1,0 +1,18 @@
+.Login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    padding: 0;
+    display: flex;
+    background:  url(../../hotel.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.Login--link{
+    color:#007bff;
+    cursor: pointer;
+}

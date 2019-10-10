@@ -1,0 +1,10 @@
+Tools
+Sql Serer Profile
+Use template: TSQL
+Events Selection
+Show all columns
+Column Filter
+
+contexto.Database.ExecuteSqlCommand
+
+sexta 06:00 endpoint da reserva tem que estar pronto

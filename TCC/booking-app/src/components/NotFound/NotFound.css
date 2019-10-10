@@ -1,0 +1,12 @@
+.error{
+    overflow: hidden;
+    height: 100vh;
+}
+
+.jumbo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    overflow: hidden;
+}

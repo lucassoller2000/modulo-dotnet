@@ -1,0 +1,5 @@
+1- Adicionar na infra o pacote Dapper
+2- Adicionar ConnectionString na appsettings.json da Api
+3- Pegar connectionString no StartUp
+4- Adicionar no StartUp o Database
+5- Com Dapper toda entidade tem que ter construtor vazio
